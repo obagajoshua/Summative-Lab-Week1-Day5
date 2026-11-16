@@ -33,6 +33,7 @@ body {
 
 .search-bar {
   margin-bottom: 1rem;
+  margin: auto;
 }
 
 .project-list {
@@ -43,7 +44,7 @@ body {
 
 .project-card {
   background-color: #fff;
-  border: 1px solid #ddd;
+  border: 1px solid #000000;
   border-radius: 5px;
   padding: 1rem;
   transition: box-shadow 0.3s ease;
@@ -58,7 +59,6 @@ body {
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
 }
-
 
 .description {
   font-size: 1.5rem;
@@ -82,8 +82,6 @@ body {
   border: 1px solid #ddd;
   border-radius: 5px;
 }
-
-
 
 .project-title {
   font-size: 1.5rem;

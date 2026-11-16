@@ -4,4 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
+  base: '/Summative-Lab-Week1-Day5/personal-project-showcase-app/'
 })
